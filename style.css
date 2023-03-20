@@ -1,0 +1,11 @@
+.deposit-input,.withdraw-output,.login-area{
+    padding:20px;
+    border-radius:6px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+.deposit,.withdraw,.balance{
+border-radius:7px;
+}
+.second-part{
+    display: none;
+}
